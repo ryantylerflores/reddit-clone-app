@@ -1,0 +1,29 @@
+.redditLogo {
+  height: 45px;
+}
+
+.navBarColor {
+  background-color: #e3f2fd;
+}
+
+.recentSearchBar {
+  height: 38px;
+}
+
+.appBackgroundColor {
+  background-color: #DAE0E6
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.thumbnails {
+  height: 60px;
+  width: 80px;
+  border-radius: 10px;
+}
+
+.red {
+  color: red !important;
+}
